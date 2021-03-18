@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CoolHandLuk/countryapp/static/css/main.44520eaa.chunk.css",
+    "main.js": "/CoolHandLuk/countryapp/static/js/main.32a059ff.chunk.js",
+    "main.js.map": "/CoolHandLuk/countryapp/static/js/main.32a059ff.chunk.js.map",
+    "runtime-main.js": "/CoolHandLuk/countryapp/static/js/runtime-main.fde6a6cc.js",
+    "runtime-main.js.map": "/CoolHandLuk/countryapp/static/js/runtime-main.fde6a6cc.js.map",
+    "static/js/2.b7f917f8.chunk.js": "/CoolHandLuk/countryapp/static/js/2.b7f917f8.chunk.js",
+    "static/js/2.b7f917f8.chunk.js.map": "/CoolHandLuk/countryapp/static/js/2.b7f917f8.chunk.js.map",
+    "static/js/3.a34c7117.chunk.js": "/CoolHandLuk/countryapp/static/js/3.a34c7117.chunk.js",
+    "static/js/3.a34c7117.chunk.js.map": "/CoolHandLuk/countryapp/static/js/3.a34c7117.chunk.js.map",
+    "index.html": "/CoolHandLuk/countryapp/index.html",
+    "static/css/main.44520eaa.chunk.css.map": "/CoolHandLuk/countryapp/static/css/main.44520eaa.chunk.css.map",
+    "static/js/2.b7f917f8.chunk.js.LICENSE.txt": "/CoolHandLuk/countryapp/static/js/2.b7f917f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fde6a6cc.js",
+    "static/js/2.b7f917f8.chunk.js",
+    "static/css/main.44520eaa.chunk.css",
+    "static/js/main.32a059ff.chunk.js"
+  ]
+}
