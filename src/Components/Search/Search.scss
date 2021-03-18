@@ -1,0 +1,50 @@
+.form__wrapper {
+  display: flex;
+}
+
+.form__icon {
+  color: $text-color;
+  padding: 12px;
+  background-color: $grey-bright;
+}
+
+.lightmode {
+  .form__icon {
+    color:$light-color-font;
+    background-color: $light-color-main;
+  }
+}
+
+.form__input {
+  width: 300px;
+  background-color: $grey-bright;
+  border: none;
+  height: 40px;
+  outline: none;
+  color: $text-color;
+}
+
+.lightmode {
+  .form__input {
+    background-color: $light-color-main;
+    color: $light-color-font;
+  }
+}
+
+::placeholder {
+  color: $text-color;
+  padding-left: 30px;
+}
+
+.lightmode {
+  ::placeholder {
+    color: $light-color-font;
+  }
+}
+
+@media (max-width: 768px) {
+  .form__input {
+    width: 200px;
+    margin-right: 10px;
+  }
+}
