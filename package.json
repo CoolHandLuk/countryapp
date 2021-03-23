@@ -1,4 +1,4 @@
-{ "homepage": "https://github.com/CoolHandLuk/countryapp",
+{ 
   "name": "countries-app",
   "version": "0.1.0",
   "private": true,
